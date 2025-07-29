@@ -30,5 +30,5 @@ if \_\_name\_\_ == "\_\_main\_\_":
 
 &nbsp;   result = add\_two\_numbers(num1, num2)
 
-&nbsp;   print("The sum i
+&nbsp;   print("The sum is ",result)
 
